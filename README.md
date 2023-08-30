@@ -1,4 +1,5 @@
 # Computer-Security-mini-project
+<p>Run from Security.py</p>
 ## This is a simple program that implements 3 ciphering techniques:
 <ul>
 <li>Single DES</li>
