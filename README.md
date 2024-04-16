@@ -22,3 +22,17 @@ The user is then free to decide whether to continue with another algorithm or ex
   <ul><li>secrets</li>
     <ul><li>token_bytes (for key gen in DES)</li></ul>
 </ul>
+
+## How to run:
+<ol type= "1">
+<li>Clone the repo wherever you want.</li>
+<li>In the VS terminal (or any powershell terminal really) run the following</li>
+	<ul>
+		<li>"cd [the directory you cloned to]"</li>
+		<li>"pip install pycryptodome"</li>
+		<li>"pip install rsa"</li>
+	</ul>
+<li>Run from Security.py</li>
+</ol>
+
+### (<b>Tip :</b> If you run into errors, try <b>creating a virtual enviroment</b> and <b>making sure pip is up to date</b>)
